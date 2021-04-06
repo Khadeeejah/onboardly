@@ -457,7 +457,8 @@ letter-spacing: 0.01em;
       padding: 0 1%;
     }
 
-    .product{
+    .product,
+    .txt-b{
       display: none;
     }
 
