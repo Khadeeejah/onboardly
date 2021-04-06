@@ -471,7 +471,6 @@ letter-spacing: 0.01em;
     .text,
     .img1 img,
     .img img,
-    .txt-b,
     .simplify,
     .img3 img{
       width: 100%;
@@ -488,6 +487,9 @@ letter-spacing: 0.01em;
       text-align: center;
       grid-template-columns: auto;
       padding: 15px;
+    }
+    .img2 img{
+      width: 200%;
     }
   }
 
