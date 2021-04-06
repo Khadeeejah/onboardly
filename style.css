@@ -458,7 +458,10 @@ letter-spacing: 0.01em;
     }
 
     .product,
-    .txt-b{
+    .txt-b,
+    .row,
+    .footer,
+    .img3 img{
       display: none;
     }
 
@@ -472,8 +475,7 @@ letter-spacing: 0.01em;
     .text,
     .img1 img,
     .img img,
-    .simplify,
-    .img3 img{
+    .simplify{
       width: 100%;
 
     }
@@ -484,11 +486,7 @@ letter-spacing: 0.01em;
 
     }
 
-    .row{
-      text-align: center;
-      grid-template-columns: auto;
-      padding: 15px;
-    }
+    
     .img2 img{
       width: 200%;
     }
